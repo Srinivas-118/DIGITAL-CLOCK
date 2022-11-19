@@ -54,7 +54,6 @@ position: relative;
     font-size: 20px;
     background: green;
 }
-.hr:hover{
-    cursor:pointer; 
+.hr:hover{ 
     opacity: 0.5;
 }
