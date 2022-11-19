@@ -55,6 +55,6 @@ position: relative;
     background: green;
 }
 .hr:hover{
-    
+    cursor:pointer; 
     opacity: 0.5;
 }
